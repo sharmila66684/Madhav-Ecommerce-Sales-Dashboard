@@ -6,11 +6,13 @@ This repository contains an interactive Power BI dashboard designed to analyze a
 The "Madhav Ecommerce Sales Dashboard" provides a comprehensive view of the company’s sales performance across multiple metrics such as profit, quantity, payment methods, regions, and customer segments. The dashboard aggregates data from monthly and quarterly periods and enables insights into product performance, customer behaviour, and regional trends.
 ________________________________________
 📊 Dashboard KPIs & Summary
-Metric	  Value
-Total Sales Amount	  ₹438,000
-Total Quantity Sold	   37,000 units
-Total Profit	   ₹121,000
-Average Order Value (AOV)	   ₹11.84 (Calculated)
+
+Metric	                       Value
+
+Total Sales Amount	           ₹438,000
+Total Quantity Sold	           37,000 units
+Total Profit	                 ₹121,000
+Average Order Value (AOV)	     ₹11.84 (Calculated)
 ________________________________________
 📅 Monthly Profit Trend
 •	Range: -₹5K to ₹15K
@@ -19,42 +21,42 @@ o	Some months show negative profit — likely due to returns, discounts, or high
 o	Peak months may align with festive sales; explore linking to marketing campaigns.
 ________________________________________
 📦 Sub-Category Wise Profit
-Sub-Category	    Observation
-Printers	    High-profit margin
-Saree Accessories	    High quantity but possibly lower profit
-Bookcases, Tables	    Moderate to low contribution
+Sub-Category	         Observation
+Printers	             High-profit margin
+Saree Accessories	     High quantity but possibly lower profit
+Bookcases, Tables	     Moderate to low contribution
 •	Action: Focus marketing on high-margin products. Consider reevaluating SKUs with consistent losses.
 ________________________________________
-🎯 Category-wise Quantity Sol
-Category	Quantity %	Interpretation
-Clothing	  63%	Highest volume contributor
-Furniture	  21%	Secondary focus area
-Electronics	  17%	Moderate engagement, possibly higher AOV
+🎯 Category-wise Quantity Sold
+Category	        Quantity %	             Interpretation
+Clothing	        63%	                     Highest volume contributor
+Furniture	        21%	                     Secondary focus area
+Electronics	      17%	                     Moderate engagement, possibly higher AOV
 •	Insight: While clothing leads in volume, profit per unit may be lower — compare with revenue contribution for balance.
 ________________________________________
 💳 Payment Mode Preferences
 Payment Mode	     % Share
-COD	         44%
-UPI	         21%
-EMI	         13%
-Debit Card	         12%
-Credit Card	         10%
+COD	               44%
+UPI	               21%
+EMI	               13%
+Debit Card	       12%
+Credit Card	       10%
 •	Analysis: High reliance on COD increases risk of returns. Consider offering prepaid incentives.
 ________________________________________
 🗺️ Sales by State
-State	Sales Amount (Approx)
+State	             Sales Amount (Approx)
 Maharashtra	       ₹100K+
-Madhya Pradesh	       ₹80K+
-Uttar Pradesh	       ₹70K+
-Delhi	       ₹50K+
+Madhya Pradesh	   ₹80K+
+Uttar Pradesh	     ₹70K+
+Delhi	             ₹50K+
 •	Opportunity: Maharashtra is a key market. Target similar tier-1 states or explore why others lag.
 ________________________________________
 👤 Top Performing Customers
 Customer Name	       Sales (₹)
-Harivansh	       10K+
-Madhav	      9K+
-Madan Mohan	      8K+
-Shiva	     7K+
+Harivansh	           10K+
+Madhav	             9K+
+Madan Mohan	         8K+
+Shiva	               7K+
 •	Insight: High-value customers can be enrolled into loyalty or referral programs.
 ________________________________________
 📆 Quarter-wise Trends
